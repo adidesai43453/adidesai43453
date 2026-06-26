@@ -240,11 +240,11 @@ https://github.com/adidesai43453
 
 ### LinkedIn
 
-https://www.linkedin.com/in/YOUR-LINKEDIN
+https://www.linkedin.com/in/aditya-desai-2228b725b 
 
 ### Email
 
-YOUR_EMAIL@example.com
+adityadesaii2476@example.com
 
 ---
 
