@@ -28,11 +28,7 @@
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/aditya-desai-2228b725b)
-
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge\&logo=gmail)](mailto:adityadesaii2476@gmail.com)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge\&logo=googlechrome)](YOUR_PORTFOLIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/aditya-desai-2228b725b)   [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge\&logo=gmail)](mailto:adityadesaii2476@gmail.com)   [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge\&logo=googlechrome)](YOUR_PORTFOLIO)
 
 ---
 
