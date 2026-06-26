@@ -28,9 +28,9 @@
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/aditya-desai-2228b725b)
 
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge\&logo=gmail)](mailto:YOUR_EMAIL)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge\&logo=gmail)](mailto:adityadesaii2476@gmail.com)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge\&logo=googlechrome)](YOUR_PORTFOLIO)
 
@@ -40,7 +40,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,react,html,css,tailwind,django,nodejs,express,mysql,sqlite,docker,git,github,linux,aws,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,react,html,css,tailwind,django,nodejs,express,mysql,docker,git,github,linux,aws,postman"/>
 
 </p>
 
@@ -48,7 +48,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=kubernetes,terraform,jenkins,prometheus,grafana"/>
+<img src="https://skillicons.dev/icons?i=kubernetes,terraform,jenkins,ansible,zabbix"/>
 
 </p>
 
